@@ -25,6 +25,7 @@
             </p>
             
             <button type="submit">Submit</button>
+            <button type="reset">Clear</button>
         </form>
         <p>${message}</p>
     </body>
